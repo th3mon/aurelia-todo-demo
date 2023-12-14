@@ -1,11 +1,11 @@
 repo_name: th3mon/aurelia-todo-demo
-report_id: 351b7a15a0d1db8b463df5bdee135663
+report_id: 6b4c0df85aa741a2956b8a653815b1dc
 repo_type: Public
-timestamp: '2023-11-09T12:51:56+00:00'
-requested_by: th3mon
+timestamp: '2023-12-14T09:26:34+00:00'
+requested_by: stack-file[bot]
 provider: github
 branch: master
-detected_tools_count: 2
+detected_tools_count: 3
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,3 +26,12 @@ tools:
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: index.html
+  last_updated_by: Przemysław Szelenberger
+  last_updated_on: 2017-01-05 10:04:09.000000000 Z
