@@ -1,7 +1,8 @@
 repo_name: th3mon/aurelia-todo-demo
-report_id: 6b4c0df85aa741a2956b8a653815b1dc
+report_id: 351b7a15a0d1db8b463df5bdee135663
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:26:34+00:00'
+timestamp: '2024-01-04T14:53:41+00:00'
 requested_by: stack-file[bot]
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/th3mon/aurelia-todo-demo
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/th3mon/aurelia-todo-demo
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -32,6 +35,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/th3mon/aurelia-todo-demo/blob/master/index.html
   detection_source: index.html
   last_updated_by: Przemysław Szelenberger
   last_updated_on: 2017-01-05 10:04:09.000000000 Z
